@@ -13,9 +13,6 @@ All commands do not and will not ever take personal info and/or data from users 
 The info I collect from users are just their User ID, Name, If they are a bot or not, and Joined at the date on discord
 I also collect message count from messages in a server to supply XP for one of the bot systems(Ranking system)
 
-I collect Music info from YT for the Music system to play music or other audio in a VC,
-- The music is only played under command the user will have to use meaning no music will autoplay, which the user doesn't want.
-
 ## What I do with this data
 I will only use this data for the right commands and I will never take data that are personal and can be used harmfully
 I am made to protect users and make sure I am used fairly and Friendly
